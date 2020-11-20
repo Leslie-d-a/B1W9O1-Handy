@@ -31,17 +31,17 @@ Het resultaat van je opdracht plaats je uiteraard op GitHub, de link naar de Git
 * Het gebruikte font is Archivo. Dit font is via google beschikbaar https://fonts.google.com/specimen/Archivo. Druk rechts op de rode tekst "select this font" voor instructies, selecteer onder 'customize' alle fonts.
 * Je maakt gebruik van een div om gehele pagina te centreren, deze div is 1000px breed. __LET OP: de twee brede afbeeldingen en de ribbon hebben 100% van de browser breedte en zijn dus altijd breder dan 1000px__
 * __Je mag voor deze opdracht__ __** GEEN **__ __gebruik maken van een negatieve margin / padding__
-* De grijze balk van het menu is 950 px breed
-* De font size van de normale teksten is 16 px en de lijn hoogte 24px en een tekst dikte van 500
-* De font size van het menu is 12 px en van het submenu 16 px en een tekst dikte van 500
-* De font size van de banner items is 32 px en een tekst dikte van 600
-* De grote tekst in de ribbon is 34 px en de kleine tekst 16 px en een tekst dikte van 700
-* De font size van de knop in de ribbon is 12 px en een tekst dikte van 500
-* De font size van de grote tekst in de onderste banner items is 22 px, de kleine 14 px en een tekst dikte van 600
-* De font size van de titels in de footer is 24 px en de tekst dikte van 600
-* De font size van de tekst in de footer is 12 px en de regel hoogte is 18 px en een tekst dikte van 400
-* De font size van de koptekst op de tekstpagina is 34px en een tekst dikte van 600
-* De font size van de breadcrumb is 12px en een tekst dikte van 400
+<!-- * De grijze balk van het menu is 950 px breed --> -->
+<!-- * De font size van de normale teksten is 16 px en de lijn hoogte 24px en een tekst dikte van 500 -->
+<!-- * De font size van het menu is 12 px en van het submenu 16 px en een tekst dikte van 500 -->
+<!-- * De font size van de banner items is 32 px en een tekst dikte van 600 -->
+<!-- * De grote tekst in de ribbon is 34 px en de kleine tekst 16 px en een tekst dikte van 700 -->
+<!-- * De font size van de knop in de ribbon is 12 px en een tekst dikte van 500 -->
+<!-- * De font size van de grote tekst in de onderste banner items is 22 px, de kleine 14 px en een tekst dikte van 600 -->
+<!-- * De font size van de titels in de footer is 24 px en de tekst dikte van 600 -->
+<!-- * De font size van de tekst in de footer is 12 px en de regel hoogte is 18 px en een tekst dikte van 400 -->
+<!-- * De font size van de koptekst op de tekstpagina is 34px en een tekst dikte van 600 -->
+<!-- * De font size van de breadcrumb is 12px en een tekst dikte van 400 -->
 * De breedte van alle banner blokjes is 300 px
 * De kleurcodes vind je in het project
 * De icoontjes komen van Font Awesome vandaan, ze zijn ook als afbeeldingen bijgevoegd in het project
